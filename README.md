@@ -24,7 +24,7 @@
 
 - 📚 Software engineering student at Faculty of Information technologies
 - 💬 Ask me about anything
-- 📌 2023 goals ** Contribute more and improve my skills **
+- 📌 2023 goals **Contribute more and improve my skills**
 - ⚡ Fun fact **I like going to the gym 🏋🏽‍♂️**
 
 
