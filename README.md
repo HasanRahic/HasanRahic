@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A passionate student at Faculty of Information Technologies</h3>
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/haso-undefined-3941b2255/" target="_blank">
