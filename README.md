@@ -25,7 +25,7 @@
 - 📚 Software engineering student at Faculty of Information technologies
 - 💬 Ask me about anything
 - 📌 2023 goals: **Contribute more and improve my skills**
-- ⚡ Fun fact **I like going to the gym 🏋🏽‍♂️**
+- ⚡ Fun fact: **I like going to the gym 🏋🏽‍♂️**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanrahic&label=Profile%20views&color=0e75b6&style=flat" alt="hasanrahic" /> </p>
