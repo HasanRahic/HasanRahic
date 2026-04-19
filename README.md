@@ -20,8 +20,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
 
-- 💡 About me: **I enjoy building real-world applications and constantly improving my skills.
-    I’m highly motivated to start my career as a software developer and grow in a professional environment.**
+- 💡 About me: **I enjoy building real-world applications and constantly improving my skills.**
 - 📚 Software engineering student at Faculty of Information technologies
 - 📌 2026 goals: **Contribute more and improve my skills**
 - ⚡ Fun fact: **I train regularly and love discipline — same mindset I apply to coding 💪**
